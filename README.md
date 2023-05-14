@@ -1,1 +1,1 @@
-# memoru_card
+# memory_card
